@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.soiway.com/</loc>
+  <lastmod>2012-01-04T08:45:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/index.html</loc>
+  <lastmod>2012-01-04T08:45:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/contact_us.php</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/about_us.html</loc>
+  <lastmod>2012-01-04T08:46:04+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/software.html</loc>
+  <lastmod>2012-01-04T08:45:34+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/expertise.html</loc>
+  <lastmod>2012-01-04T08:45:54+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/services.html</loc>
+  <lastmod>2012-01-04T08:45:45+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/careers.html</loc>
+  <lastmod>2012-01-04T08:46:02+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/PrivacyPolicy.html</loc>
+  <lastmod>2012-01-04T08:45:50+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/TermsOfUse.html</loc>
+  <lastmod>2012-01-04T08:45:32+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/SiteIndex.html</loc>
+  <lastmod>2012-01-04T08:45:36+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/web_strategy_consulting.html</loc>
+  <lastmod>2012-01-04T08:45:30+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/services-webdevelopment-pricing.html</loc>
+  <lastmod>2012-01-04T08:45:42+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/contact_us.html</loc>
+  <lastmod>2011-12-27T00:49:16+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/services-webdevelopment-pricing-static.html</loc>
+  <lastmod>2012-01-04T08:45:38+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/services-webdevelopment-pricing-dynamic.html</loc>
+  <lastmod>2012-01-04T08:45:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.soiway.com/services-webdevelopment-additional-pricing.html</loc>
+  <lastmod>2012-01-04T08:45:44+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.51</priority>
+</url>
+</urlset>
